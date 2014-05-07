@@ -12,9 +12,7 @@ ligne 8
 ligne 10
 ligne 11
 ligne 12
-<<<<<<< HEAD
+
 
 ryufhjghjg
-=======
-gfdgf
->>>>>>> fa47a7d7bdf25abcba2c398298a40a7395285952
+
