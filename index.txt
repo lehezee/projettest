@@ -1,0 +1,22 @@
+
+ligne 2
+
+ligne 4
+ligne 5
+ligne 6.1
+ligne 7
+ligne 8
+
+
+
+ligne 10
+ligne 11
+ligne 12
+<<<<<<< HEAD:Nouveau document texte.txt
+hgfh
+=======
+
+
+ryufhjghjg
+
+>>>>>>> 559b91e19e003fdd29cc2fec6c5dea07c0d2d792:index.txt
