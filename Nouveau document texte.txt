@@ -5,9 +5,14 @@ ligne 4
 ligne 5
 ligne 6.1
 ligne 7
+ligne 8
 
+<<<<<<< HEAD
 
 ligne 10
 ligne 11
 
 ligne 12
+=======
+ligne 10ligne 11
+>>>>>>> 405fc72f53ec98c376000446579fb3ea930346e0
