@@ -3,5 +3,9 @@ ligne 2
 
 ligne 4
 ligne 5
+<<<<<<< HEAD
 ligne 6
 ligne 7
+=======
+ligne 6.1
+>>>>>>> origin/dev
